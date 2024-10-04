@@ -5,9 +5,8 @@ Hello I'm George, a graduate from The University of Manchester with a Master of 
 Below is a complete list of the coding projects that I completed during my 4 years at The University of Manchester. It is worth noting that this does not include the coding work used for lab experiments, this is all included above. These projects focused on simulation, data analysis methods and making interfaces and used C++, Python and Jupyter notebooks.
 
 ### Python
-- [Calculating the mass & width of Z boson from a dataset](https://github.com/your-username/data-analysis-project)
--
--
+- [Analysis of Breit-Wigner function](https://github.com/georgemcnie/Analysis-of-Breit-Wigner-function-for-Z-boson)
+- [Simulating neutron penetration with Monte Carlo techniques](https://github.com/georgemcnie/Simulating-neutron-penetration-with-Monte-Carlo-techniques)
 -
 
 ### C++
