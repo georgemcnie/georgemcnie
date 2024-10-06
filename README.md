@@ -13,7 +13,7 @@ Below is a complete list of the coding projects that I completed during my 4 yea
 - [Drop Spreading Law](https://github.com/georgemcnie/Drop-Spreading-Law)
 
 ### C++
-- Simulation of AC circuit
+- [Simulation of AC circuit](https://github.com/georgemcnie/AC-circuits-simulation)
 - Simulation of a Quantum Circuit
 - Class hierarchy for shapes
 - Creating a matrix interface
